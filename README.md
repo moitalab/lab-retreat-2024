@@ -11,3 +11,5 @@ This repository works as an example.
 Inside this repository you will find some data and some analysis scripts to use.
 
 I forgot about this part.
+
+Added this after the 2amrelease.
